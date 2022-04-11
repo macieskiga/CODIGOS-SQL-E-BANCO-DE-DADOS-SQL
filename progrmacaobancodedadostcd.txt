@@ -1,4 +1,4 @@
-#Gabriel Macieski Cortes RA 8056919
+
 
 CREATE DATABASE ProgramacaoBancoDeDados;
 USE ProgramacaoBancoDeDados;
